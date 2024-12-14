@@ -11,4 +11,4 @@ SABR Model and Displaced-Diffusion Model
 
 Part 3 - Pricing of Exotic European payoff using Static Replication
 
-Part 4 - Dynamic Hedging
+Part 4 - Dynamic Hedging using portfolio of underlying SPY and risk-free bond & evaluation of hedging errors by Monte Carlo Simulation 
